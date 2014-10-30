@@ -1,50 +1,55 @@
 
 public class Carte {
 
-	private int valeur;
-	private String couleur;
+	private int value;
+	private String color;
 		
-	// Constructeur
-	public Carte (int valeur, String couleur){
-		this.valeur = valeur;
-		this.couleur = couleur;
+	// Constructeurs
+	public Carte (int value, String color){
+		this.value = value;
+		this.color = color;
 	}
+	
 	public Carte (Carte c){
-		this.valeur = c.valeur;
-		this.couleur = c.couleur;
+		this.value = c.value;
+		this.color = c.color;
 	}
+	
 	// Modifier
-	public void modifierCarte(int valeur, String couleur) {
-		this.valeur = valeur;
-		this.couleur = couleur;	
+	public void modify(int value, String color) {
+		this.value = value;
+		this.color = color;	
 	}
 	
 	// Accesseurs
-	public String lireCarte(){
+	public String read(){
 		String rangCarte;
-		if (this.valeur==1) rangCarte="As";
-		else if (this.valeur==11) rangCarte="Valet";
-		else if (this.valeur==12) rangCarte="Dame";
-		else if (this.valeur==13) rangCarte="Roi";
-		else rangCarte=Integer.toString(this.valeur);
-		return rangCarte+" de "+this.couleur;
+		if (this.value==1) rangCarte="As";
+		else if (this.value==11) rangCarte="Valet";
+		else if (this.value==12) rangCarte="Dame";
+		else if (this.value==13) rangCarte="Roi";
+		else rangCarte=Integer.toString(this.value);
+		return rangCarte+" de "+this.color;
 	}
-	public int lireValeur(){
-		return this.valeur;
+	
+	public int read_value(){
+		return this.value;
 	}
 	
 		// comparateurs (mode basique)
-	public boolean estSuperieure (Carte c){
-		if (this.valeur == 1 && c.valeur!=1) return true;
-		if (c.valeur == 1 && this.valeur!=1) return false;
-		else return this.valeur>c.valeur;
+	public boolean greater_than (Carte c){
+		if (this.value == 1 && c.value!=1) return true;
+		if (c.value == 1 && this.value!=1) return false;
+		else return this.value>c.value;
 	}
-	public boolean estInferieure (Carte c){
-		if (this.valeur == 1 && c.valeur!=1) return false;
-		if (c.valeur == 1 && this.valeur!=1) return true;
-		return this.valeur<c.valeur;
+	
+	public boolean lower_than (Carte c){
+		if (this.value == 1 && c.value!=1) return false;
+		if (c.value == 1 && this.value!=1) return true;
+		return this.value<c.value;
 	}	
-	public boolean estEgale (Carte c){
-		return this.valeur==c.valeur;
+	
+	public boolean equals (Carte c){
+		return this.value==c.value;
 	}
 }
