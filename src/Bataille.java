@@ -2,28 +2,23 @@ import java.util.ArrayList;
 
 public class Bataille {
 	public static void main(String[] args) {
-		
-		// initialisations
-		int values[] = {1,2,3,4,5,6,7,8,9,10,11,12,13};
-		String colors[] = {"coeur","carreau","trefle","pique"};
+		// cards est un ArrayList qui va contenir toutes les cartes du jeu
 		ArrayList<Carte> cards = new ArrayList<Carte>();
+		// cards_on_table est un autre ArrayList qui correspond aux cartes posées sur la table
+		// la bataille est un jeu dans lequel on peut poser et jouer un nombre indéfinie de carte
+		// sur la table.
 		ArrayList<Carte> cards_on_table = new ArrayList<Carte>();
-		
-		// fabrication des cartes
-		for (int i = 0; i<colors.length; i++){
-			for (int j = 0; j<values.length; j++){
-				Carte x = new Carte (values[j],colors[i]);
-				cards.add(x);
-			}
-		}
-		
+
 		// création d'une partie
 		Partie game = new Partie();
 		
-		// on commence par mélanger les cartes
+		// on génère le jeu de carte
+		game.cards_factory(cards);
+		
+		// on mélange les cartes
 		game.shuffling(cards);
 		
-		// arrivée des deux joueurs
+		// arrivée de deux joueurs
 		Joueur John = new Joueur("John");
 		Joueur Tony = new Joueur("Tony");
 		

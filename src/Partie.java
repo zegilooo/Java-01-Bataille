@@ -14,6 +14,19 @@ public class Partie {
 	    }
 	};
 	
+	public void cards_factory(ArrayList<Carte> c ){
+		// initialisations
+		int values[] = {1,2,3,4,5,6,7,8,9,10,11,12,13};
+		String colors[] = {"coeur","carreau","trefle","pique"};		
+		// fabrication des cartes
+		for (int i = 0; i<colors.length; i++){
+			for (int j = 0; j<values.length; j++){
+				Carte x = new Carte (values[j],colors[i]);
+				c.add(x);
+			}
+		}
+	};
+	
 	public void dealing(ArrayList<Carte> l, Joueur player1, Joueur player2){
 		// distribution des cartes
 		for (int i = 0; i < l.size(); i++) {
@@ -28,14 +41,14 @@ public class Partie {
 		boolean game_won = false;
 		boolean game_too_long = false;
 		boolean bataille = false;
-		int round_number = 0;// nombre de tours
+		int round_number = 0;// numéro de tours
 		int max_depth = 0; // depth max
 		int memo_best_round = 0; // mémoire du meilleur tour
-		while(game_won == false && game_too_long == false)
-		{
+		while(game_won == false && game_too_long == false){
 			String comments = "";
 			
 			round_number++;
+			
 			comments +="Tour n°"+Integer.toString(round_number)+"\n";
 			
 			// les joueurs tirent chacun une carte
@@ -46,16 +59,16 @@ public class Partie {
 			
 			// on compare les cartes
 			if(l.get(l.size()-1).greater_than(l.get(l.size()-2))){
-				winner = player2.name(); // Tony est le dernier à jouer et sa carte est superieure
+				winner = player2.name(); // player2 est le dernier à jouer et sa carte est superieure
 			} else if (l.get(l.size()-1).lower_than(l.get(l.size()-2))){
-				winner = player1.name(); // Tony est le dernier à jouer et sa carte est inferieure
+				winner = player1.name(); // player2 est le dernier à jouer et sa carte est inferieure
 			} else {
 				// Bataille !
 				bataille=true;
 				int p = 0;
 				while(bataille){
 					p++;
-					if(p>max_depth) { // on garde au moins le premier des meilleurs tours en mémoire (meilleur tour = plus grande depth)
+					if(p>max_depth) { // on garde au moins le premier des meilleurs tours en mémoire (meilleur tour = plus grande profondeur)
 						max_depth=p;
 						memo_best_round=round_number;
 					}
@@ -75,44 +88,43 @@ public class Partie {
 						comments +=depth+player2.name()+" joue "+l.get(l.size()-1).read()+"\n";
 						// on compare les cartes
 						if(l.get(l.size()-1).greater_than(l.get(l.size()-2))){
-							winner = player2.name(); // Tony est le dernier à jouer et sa carte est superieure
+							winner = player2.name(); // player2 est le dernier à jouer et sa carte est superieure
 							bataille=false;
 						} else if (l.get(l.size()-1).lower_than(l.get(l.size()-2))){
-							winner = player1.name(); // Tony est le dernier à jouer et sa carte est inferieure
+							winner = player1.name(); // player2 est le dernier à jouer et sa carte est inferieure
 							bataille=false;
 						} else {
 							bataille=true;						
 						}						
-					} else { // un des deux joueurs n'a plus assez de cartes pour jouer
+					} else { 	
+						// un des deux joueurs n'a plus assez de cartes pour jouer
 						// alors il donne gentillement la carte qu'il lui reste
 						if(player2.show_hand().size()==1){
 							l.add(player2.give_card());
 							comments +=depth+player2.name()+" n'a plus qu'une seule carte, un "+l.get(l.size()-1).read();
-							comments += " qu'il donne gentillement à player1.\n";
+							comments += " qu'il donne gentillement à "+player1.name()+".\n";
 							winner = player1.name();
 						} 
 						else if(player1.show_hand().size()==1){
 							l.add(player1.give_card());
 							comments +=depth+player1.name()+" n'a plus qu'une seule carte, un "+l.get(l.size()-1).read();
-							comments += " qu'il donne gentillement à player2.\n";
+							comments += " qu'il donne gentillement à"+player2.name()+".\n";
 							winner = player2.name();
 						} else if(player2.show_hand().size()==0){
 							l.add(player2.give_card());
-							comments +=depth+"Mais Tony n'a plus de carte ! Pas de carte, pas de bataille possible ! \n";
+							comments +=depth+"Mais "+player2.name()+" n'a plus de carte ! Pas de carte, pas de bataille possible ! \n";
 							winner =player1.name();
 						} 
 						else if(player1.show_hand().size()==0){
 							l.add(player1.give_card());
-							comments +=depth+"Mais John n'a plus de carte ! Pas de carte, pas de bataille possible ! \n";
+							comments +=depth+"Mais "+player1.name()+" n'a plus de carte ! Pas de carte, pas de bataille possible ! \n";
 							winner = player2.name();
 						}  
 						bataille = false;
 					}
 				}
 			}
-			
 			comments += winner + " emporte ce pli.\n";
-			
 			if (winner.equals(player1.name())){
 				while (l.size()!=0){
 					player1.take_card(l.get(0));
@@ -124,7 +136,6 @@ public class Partie {
 					l.remove(0);
 				}
 			}
-			
 			if (player2.show_hand().size() == 0) {
 				comments +="\nHolala ! "+player2.name()+" n'a plus de carte !\n";
 				comments +=player1.name()+" est le gagnant !\n";
@@ -134,7 +145,7 @@ public class Partie {
 				comments +=player2.name()+" est le gagnant !\n";
 				game_won = true;				
 			} else{
-				comments +="("+player2.name()+" "+player1.show_hand().size()+" cartes, ";
+				comments +="("+player1.name()+" "+player1.show_hand().size()+" cartes, ";
 				comments +=player2.name()+" "+player2.show_hand().size()+" cartes)\n";
 			}
 					
@@ -151,7 +162,6 @@ public class Partie {
 				
 			}
 			System.out.println(comments);
-			
 		} 	
 		if(memo_best_round>0 && max_depth>1) System.out.println("Le plus beau tour a été le n°"+memo_best_round+" avec "+max_depth+" batailles imbriquées.");
 		};
