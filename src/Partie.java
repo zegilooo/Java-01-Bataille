@@ -1,41 +1,55 @@
 import java.util.ArrayList;
 
 public class Partie {
-
-	public void shuffling(ArrayList<Carte> l){
-	    int n = l.size();
+	
+	private ArrayList<Carte> cards = new ArrayList<Carte>();
+	private ArrayList<Carte> cards_on_table = new ArrayList<Carte>();
+	private Joueur player1; 
+	private Joueur player2;
+	
+	public Partie (Joueur player1, Joueur player2){
+		this.player1 = player1;
+		this.player2 = player2;
+		cards_factory();
+		shuffling();
+		dealing();
+		
+	}
+	
+	public void comment (String c){
+		System.out.println(c);
+	}
+	
+	public void shuffling(){
+	    int n = this.cards.size();
 	    for (int i = 0; i < n; i++)
 	    {
-	        // entre i and n-1
 	        int r = i + (int) (Math.random() * (n-i));
-	        Carte tmp = l.get(i);    // tampon
-	        l.set(i,l.get(r)) ;
-	        l.set(r,tmp);
+	        Carte tmp = this.cards.get(i);    // tampon
+	        this.cards.set(i,this.cards.get(r)) ;
+	        this.cards.set(r,tmp);
 	    }
 	};
 	
-	public void cards_factory(ArrayList<Carte> c ){
-		// initialisations
+	public void cards_factory(){
 		int values[] = {1,2,3,4,5,6,7,8,9,10,11,12,13};
 		String colors[] = {"coeur","carreau","trefle","pique"};		
-		// fabrication des cartes
 		for (int i = 0; i<colors.length; i++){
 			for (int j = 0; j<values.length; j++){
 				Carte x = new Carte (values[j],colors[i]);
-				c.add(x);
+				this.cards.add(x);
 			}
 		}
 	};
 	
-	public void dealing(ArrayList<Carte> l, Joueur player1, Joueur player2){
-		// distribution des cartes
-		for (int i = 0; i < l.size(); i++) {
-			if (i % 2 == 0) player1.take_card(l.get(i));
-			else player2.take_card(l.get(i));
+	public void dealing(){
+		for (int i = 0; i < this.cards.size(); i++) {
+			if (i % 2 == 0) this.player1.take_card(this.cards.get(i));
+			else this.player2.take_card(this.cards.get(i));
 		}
 	};
 	
-	public void playing(ArrayList<Carte> l, Joueur player1, Joueur player2){
+	public void playing(){
 		// on demmarre le jeu
 		String winner = "";
 		boolean game_won = false;
@@ -45,23 +59,22 @@ public class Partie {
 		int max_depth = 0; // depth max
 		int memo_best_round = 0; // mémoire du meilleur tour
 		while(game_won == false && game_too_long == false){
-			String comments = "";
 			
 			round_number++;
 			
-			comments +="Tour n°"+Integer.toString(round_number)+"\n";
+			comment("Tour n°"+Integer.toString(round_number)+"");
 			
 			// les joueurs tirent chacun une carte
-			l.add(player1.give_card());
-			comments +=player1.name()+" joue "+l.get(l.size()-1).read()+"\n";
-			l.add(player2.give_card());
-			comments +=player2.name()+" joue "+l.get(l.size()-1).read()+"\n";
+			this.cards_on_table.add(this.player1.give_card());
+			comment(this.player1.name()+" joue "+this.cards_on_table.get(this.cards_on_table.size()-1).read()+"");
+			this.cards_on_table.add(this.player2.give_card());
+			comment(this.player2.name()+" joue "+this.cards_on_table.get(this.cards_on_table.size()-1).read()+"");
 			
 			// on compare les cartes
-			if(l.get(l.size()-1).greater_than(l.get(l.size()-2))){
-				winner = player2.name(); // player2 est le dernier à jouer et sa carte est superieure
-			} else if (l.get(l.size()-1).lower_than(l.get(l.size()-2))){
-				winner = player1.name(); // player2 est le dernier à jouer et sa carte est inferieure
+			if(this.cards_on_table.get(this.cards_on_table.size()-1).greater_than(this.cards_on_table.get(this.cards_on_table.size()-2))){
+				winner = this.player2.name(); // this.player2 est le dernier à jouer et sa carte est superieure
+			} else if (this.cards_on_table.get(this.cards_on_table.size()-1).lower_than(this.cards_on_table.get(this.cards_on_table.size()-2))){
+				winner = this.player1.name(); // this.player2 est le dernier à jouer et sa carte est inferieure
 			} else {
 				// Bataille !
 				bataille=true;
@@ -76,22 +89,22 @@ public class Partie {
 					for (int i = 0;i<p;i++) {
 						depth+="\t";
 						}
-					comments +=depth+"Bataille !\n";
-					if(player2.show_hand().size()>1 && player1.show_hand().size()>1){
-						l.add(player1.give_card());
-						comments +=depth+player1.name()+" cache une carte "+l.get(l.size()-1).read()+"\n";
-						l.add(player2.give_card());
-						comments +=depth+player2.name()+" cache une carte "+l.get(l.size()-1).read()+"\n";
-						l.add(player1.give_card());
-						comments +=depth+player1.name()+" joue "+l.get(l.size()-1).read()+"\n";
-						l.add(player2.give_card());
-						comments +=depth+player2.name()+" joue "+l.get(l.size()-1).read()+"\n";
+					comment(depth+"Bataille !");
+					if(this.player2.show_hand().size()>1 && this.player1.show_hand().size()>1){
+						this.cards_on_table.add(this.player1.give_card());
+						comment(depth+this.player1.name()+" cache une carte "+this.cards_on_table.get(this.cards_on_table.size()-1).read()+"");
+						this.cards_on_table.add(this.player2.give_card());
+						comment(depth+this.player2.name()+" cache une carte "+this.cards_on_table.get(this.cards_on_table.size()-1).read()+"");
+						this.cards_on_table.add(this.player1.give_card());
+						comment(depth+this.player1.name()+" joue "+this.cards_on_table.get(this.cards_on_table.size()-1).read()+"");
+						this.cards_on_table.add(this.player2.give_card());
+						comment(depth+this.player2.name()+" joue "+this.cards_on_table.get(this.cards_on_table.size()-1).read()+"");
 						// on compare les cartes
-						if(l.get(l.size()-1).greater_than(l.get(l.size()-2))){
-							winner = player2.name(); // player2 est le dernier à jouer et sa carte est superieure
+						if(this.cards_on_table.get(this.cards_on_table.size()-1).greater_than(this.cards_on_table.get(this.cards_on_table.size()-2))){
+							winner = this.player2.name(); // this.player2 est le dernier à jouer et sa carte est superieure
 							bataille=false;
-						} else if (l.get(l.size()-1).lower_than(l.get(l.size()-2))){
-							winner = player1.name(); // player2 est le dernier à jouer et sa carte est inferieure
+						} else if (this.cards_on_table.get(this.cards_on_table.size()-1).lower_than(this.cards_on_table.get(this.cards_on_table.size()-2))){
+							winner = this.player1.name(); // this.player2 est le dernier à jouer et sa carte est inferieure
 							bataille=false;
 						} else {
 							bataille=true;						
@@ -99,71 +112,70 @@ public class Partie {
 					} else { 	
 						// un des deux joueurs n'a plus assez de cartes pour jouer
 						// alors il donne gentillement la carte qu'il lui reste
-						if(player2.show_hand().size()==1){
-							l.add(player2.give_card());
-							comments +=depth+player2.name()+" n'a plus qu'une seule carte, un "+l.get(l.size()-1).read();
-							comments += " qu'il donne gentillement à "+player1.name()+".\n";
-							winner = player1.name();
+						if(this.player2.show_hand().size()==1){
+							this.cards_on_table.add(this.player2.give_card());
+							comment(depth+this.player2.name()+" n'a plus qu'une seule carte, un "+this.cards_on_table.get(this.cards_on_table.size()-1).read());
+							comment( " qu'il donne gentillement à "+this.player1.name()+".");
+							winner = this.player1.name();
 						} 
-						else if(player1.show_hand().size()==1){
-							l.add(player1.give_card());
-							comments +=depth+player1.name()+" n'a plus qu'une seule carte, un "+l.get(l.size()-1).read();
-							comments += " qu'il donne gentillement à"+player2.name()+".\n";
-							winner = player2.name();
-						} else if(player2.show_hand().size()==0){
-							l.add(player2.give_card());
-							comments +=depth+"Mais "+player2.name()+" n'a plus de carte ! Pas de carte, pas de bataille possible ! \n";
-							winner =player1.name();
+						else if(this.player1.show_hand().size()==1){
+							this.cards_on_table.add(this.player1.give_card());
+							comment(depth+this.player1.name()+" n'a plus qu'une seule carte, un "+this.cards_on_table.get(this.cards_on_table.size()-1).read());
+							comment( " qu'il donne gentillement à"+this.player2.name()+".");
+							winner = this.player2.name();
+						} else if(this.player2.show_hand().size()==0){
+							this.cards_on_table.add(this.player2.give_card());
+							comment(depth+"Mais "+this.player2.name()+" n'a plus de carte ! Pas de carte, pas de bataille possible ! ");
+							winner =this.player1.name();
 						} 
-						else if(player1.show_hand().size()==0){
-							l.add(player1.give_card());
-							comments +=depth+"Mais "+player1.name()+" n'a plus de carte ! Pas de carte, pas de bataille possible ! \n";
-							winner = player2.name();
+						else if(this.player1.show_hand().size()==0){
+							this.cards_on_table.add(this.player1.give_card());
+							comment(depth+"Mais "+this.player1.name()+" n'a plus de carte ! Pas de carte, pas de bataille possible ! ");
+							winner = this.player2.name();
 						}  
 						bataille = false;
 					}
 				}
 			}
-			comments += winner + " emporte ce pli.\n";
-			if (winner.equals(player1.name())){
-				while (l.size()!=0){
-					player1.take_card(l.get(0));
-					l.remove(0);
+			comment( winner + " emporte ce pli.");
+			if (winner.equals(this.player1.name())){
+				while (this.cards_on_table.size()!=0){
+					this.player1.take_card(this.cards_on_table.get(0));
+					this.cards_on_table.remove(0);
 				}
-			} else if (winner.equals(player2.name())){
-				while (l.size()!=0){
-					player2.take_card(l.get(0));
-					l.remove(0);
+			} else if (winner.equals(this.player2.name())){
+				while (this.cards_on_table.size()!=0){
+					this.player2.take_card(this.cards_on_table.get(0));
+					this.cards_on_table.remove(0);
 				}
 			}
-			if (player2.show_hand().size() == 0) {
-				comments +="\nHolala ! "+player2.name()+" n'a plus de carte !\n";
-				comments +=player1.name()+" est le gagnant !\n";
+			if (this.player2.show_hand().size() == 0) {
+				comment("\nHolala ! "+this.player2.name()+" n'a plus de carte !");
+				comment(this.player1.name()+" est le gagnant !");
 				game_won = true;	
-			} else if (player1.show_hand().size() == 0){
-				comments +="\nHolala ! "+player1.name()+" n'a plus de carte !\n";
-				comments +=player2.name()+" est le gagnant !\n";
+			} else if (this.player1.show_hand().size() == 0){
+				comment("Holala ! "+this.player1.name()+" n'a plus de carte !");
+				comment(this.player2.name()+" est le gagnant !");
 				game_won = true;				
 			} else{
-				comments +="("+player1.name()+" "+player1.show_hand().size()+" cartes, ";
-				comments +=player2.name()+" "+player2.show_hand().size()+" cartes)\n";
+				comment("("+this.player1.name()+" "+this.player1.show_hand().size()+" cartes, "+this.player2.name()+" "+this.player2.show_hand().size()+" cartes)\n");
 			}
 					
 			if(round_number >=50000 && game_won == false){
 				game_too_long = true;
-				comments +="La partie est trop longue, et il n'y a plus rien à boire !\n";
-				if (player1.show_hand().size()>player2.show_hand().size()){
-					comments +=player2.name()+" concède la victoire à "+player1.name()+" "+player1.show_hand().size()+" à "+player2.show_hand().size()+" !\n";
-				}else if (player2.show_hand().size()>player1.show_hand().size()){
-					comments +=player1.name()+" concède la victoire à "+player2.name()+" "+player2.show_hand().size()+" à "+player1.show_hand().size()+" !\n";
+				comment("La partie est trop longue, et il n'y a plus rien à boire !");
+				if (this.player1.show_hand().size()>this.player2.show_hand().size()){
+					comment(this.player2.name()+" concède la victoire à "+this.player1.name()+" "+this.player1.show_hand().size()+" à "+this.player2.show_hand().size()+" !");
+				}else if (this.player2.show_hand().size()>this.player1.show_hand().size()){
+					comment(this.player1.name()+" concède la victoire à "+this.player2.name()+" "+this.player2.show_hand().size()+" à "+this.player1.show_hand().size()+" !");
 				}else{	
-					comments +="Les deux compétiteurs se réjouissent de terminer sur un match nul "+player2.show_hand().size()+" à "+player1.show_hand().size()+" !\n";
+					comment("Les deux compétiteurs se réjouissent de terminer sur un match nul "+this.player2.show_hand().size()+" à "+this.player1.show_hand().size()+" !");
 				}
 				
 			}
-			System.out.println(comments);
+			
 		} 	
-		if(memo_best_round>0 && max_depth>1) System.out.println("Le plus beau tour a été le n°"+memo_best_round+" avec "+max_depth+" batailles imbriquées.");
+		if(memo_best_round>0 && max_depth>1) comment("Le plus beau tour a été le n°"+memo_best_round+" avec "+max_depth+" batailles imbriquées.");
 		};
 		
 	};
