@@ -1,3410 +1,1798 @@
 Tour n°1
-John joue Dame de carreau
-Tony joue 8 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
+John joue 3 de pique
+Tony joue As de trefle
+Tony emporte ce pli.
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°2
-John joue 9 de carreau
-Tony joue 7 de trefle
+John joue 5 de pique
+Tony joue 3 de coeur
 John emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°3
-John joue 10 de coeur
-Tony joue 8 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°4
-John joue 5 de coeur
-Tony joue 2 de pique
-John emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°5
-John joue Roi de trefle
-Tony joue Roi de coeur
-	Bataille !
-	John cache une carte 5 de carreau
-	Tony cache une carte 10 de trefle
-	John joue 3 de coeur
-	Tony joue 7 de pique
-Tony emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°6
-John joue 8 de coeur
-Tony joue Roi de pique
-Tony emporte ce pli.
 (John 26 cartes, Tony 26 cartes)
 
-Tour n°7
-John joue 7 de coeur
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°8
-John joue As de carreau
-Tony joue Dame de pique
-John emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°9
-John joue 9 de pique
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°10
-John joue As de trefle
-Tony joue Roi de carreau
-John emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°11
-John joue 4 de trefle
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°12
-John joue 3 de pique
-Tony joue 4 de carreau
+Tour n°3
+John joue 3 de trefle
+Tony joue 7 de carreau
 Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
+(John 25 cartes, Tony 27 cartes)
 
-Tour n°13
-John joue 3 de carreau
-Tony joue Valet de trefle
+Tour n°4
+John joue 5 de trefle
+Tony joue 7 de pique
 Tony emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°14
-John joue 5 de pique
-Tony joue As de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°15
-John joue 10 de pique
-Tony joue 10 de carreau
-	Bataille !
-	John cache une carte Dame de coeur
-	Tony cache une carte 2 de trefle
-	John joue 6 de carreau
-	Tony joue 6 de pique
-		Bataille !
-		John cache une carte Valet de coeur
-		Tony cache une carte 8 de carreau
-		John joue 3 de trefle
-		Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°16
-John joue Dame de trefle
-Tony joue Valet de pique
-John emporte ce pli.
 (John 24 cartes, Tony 28 cartes)
 
-Tour n°17
-John joue 9 de trefle
-Tony joue As de coeur
-Tony emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°18
-John joue 9 de coeur
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°19
-John joue Valet de carreau
-Tony joue 4 de pique
+Tour n°5
+John joue 10 de coeur
+Tony joue 2 de trefle
 John emporte ce pli.
 (John 25 cartes, Tony 27 cartes)
 
-Tour n°20
-John joue 6 de coeur
-Tony joue 6 de trefle
-	Bataille !
-	John cache une carte Dame de carreau
-	Tony cache une carte Roi de trefle
-	John joue 8 de pique
-	Tony joue Roi de coeur
+Tour n°6
+John joue Dame de trefle
+Tony joue Roi de carreau
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
+
+Tour n°7
+John joue 8 de trefle
+Tony joue 9 de pique
+Tony emporte ce pli.
+(John 23 cartes, Tony 29 cartes)
+
+Tour n°8
+John joue 8 de coeur
+Tony joue Roi de coeur
 Tony emporte ce pli.
 (John 22 cartes, Tony 30 cartes)
 
-Tour n°21
-John joue 9 de carreau
+Tour n°9
+John joue Dame de pique
+Tony joue 10 de trefle
+John emporte ce pli.
+(John 23 cartes, Tony 29 cartes)
+
+Tour n°10
+John joue Valet de coeur
+Tony joue Dame de carreau
+Tony emporte ce pli.
+(John 22 cartes, Tony 30 cartes)
+
+Tour n°11
+John joue 8 de carreau
+Tony joue 6 de pique
+John emporte ce pli.
+(John 23 cartes, Tony 29 cartes)
+
+Tour n°12
+John joue Valet de trefle
+Tony joue Valet de pique
+	Bataille !
+	John cache une carte As de coeur
+	Tony cache une carte 6 de trefle
+	John joue 4 de carreau
+	Tony joue 10 de pique
+Tony emporte ce pli.
+(John 20 cartes, Tony 32 cartes)
+
+Tour n°13
+John joue Roi de pique
+Tony joue Valet de carreau
+John emporte ce pli.
+(John 21 cartes, Tony 31 cartes)
+
+Tour n°14
+John joue 5 de coeur
+Tony joue 9 de coeur
+Tony emporte ce pli.
+(John 20 cartes, Tony 32 cartes)
+
+Tour n°15
+John joue 2 de carreau
+Tony joue 9 de carreau
+Tony emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°16
+John joue 4 de coeur
+Tony joue 10 de carreau
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°17
+John joue 7 de coeur
 Tony joue 5 de carreau
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°18
+John joue 4 de pique
+Tony joue 2 de pique
+John emporte ce pli.
+(John 20 cartes, Tony 32 cartes)
+
+Tour n°19
+John joue As de pique
+Tony joue 6 de carreau
+John emporte ce pli.
+(John 21 cartes, Tony 31 cartes)
+
+Tour n°20
+John joue As de carreau
+Tony joue Dame de coeur
+John emporte ce pli.
+(John 22 cartes, Tony 30 cartes)
+
+Tour n°21
+John joue 6 de coeur
+Tony joue 2 de coeur
 John emporte ce pli.
 (John 23 cartes, Tony 29 cartes)
 
 Tour n°22
-John joue 7 de trefle
-Tony joue 10 de trefle
+John joue 3 de carreau
+Tony joue 4 de trefle
 Tony emporte ce pli.
 (John 22 cartes, Tony 30 cartes)
 
 Tour n°23
-John joue 10 de coeur
-Tony joue 3 de coeur
+John joue 9 de trefle
+Tony joue 7 de trefle
 John emporte ce pli.
 (John 23 cartes, Tony 29 cartes)
 
 Tour n°24
-John joue 8 de trefle
-Tony joue 7 de pique
+John joue Roi de trefle
+Tony joue 8 de pique
 John emporte ce pli.
 (John 24 cartes, Tony 28 cartes)
 
 Tour n°25
-John joue 5 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°26
-John joue 2 de pique
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°27
-John joue 7 de coeur
+John joue 5 de pique
 Tony joue 3 de pique
 John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+(John 25 cartes, Tony 27 cartes)
+
+Tour n°26
+John joue 3 de coeur
+Tony joue As de trefle
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
+
+Tour n°27
+John joue 10 de coeur
+Tony joue 3 de trefle
+John emporte ce pli.
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°28
-John joue 4 de coeur
-Tony joue 4 de carreau
-	Bataille !
-	John cache une carte As de carreau
-	Tony cache une carte 3 de carreau
-	John joue Dame de pique
-	Tony joue Valet de trefle
-John emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
+John joue 2 de trefle
+Tony joue 7 de carreau
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
 
 Tour n°29
-John joue 9 de pique
-Tony joue 5 de pique
+John joue Dame de pique
+Tony joue 5 de trefle
 John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°30
-John joue 2 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
+John joue 10 de trefle
+Tony joue 7 de pique
+John emporte ce pli.
 (John 26 cartes, Tony 26 cartes)
 
 Tour n°31
-John joue As de trefle
-Tony joue 10 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°32
-John joue Roi de carreau
-Tony joue 10 de carreau
-John emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°33
-John joue 4 de trefle
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°34
-John joue 2 de carreau
-Tony joue 2 de trefle
-	Bataille !
-	John cache une carte Dame de trefle
-	Tony cache une carte 6 de carreau
-	John joue Valet de pique
-	Tony joue 6 de pique
-John emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°35
-John joue 9 de coeur
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°36
-John joue 5 de trefle
-Tony joue 8 de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°37
-John joue Valet de carreau
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°38
-John joue 4 de pique
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°39
-John joue 9 de carreau
-Tony joue 9 de trefle
-	Bataille !
-	John cache une carte 5 de carreau
-	Tony cache une carte As de coeur
-	John joue 10 de coeur
-	Tony joue 6 de coeur
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°40
-John joue 3 de coeur
-Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°41
-John joue 8 de trefle
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°42
-John joue 7 de pique
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°43
-John joue 7 de coeur
-Tony joue 8 de pique
-Tony emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°44
-John joue 3 de pique
-Tony joue Roi de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°45
-John joue 4 de coeur
-Tony joue 7 de trefle
+John joue 8 de carreau
+Tony joue Dame de trefle
 Tony emporte ce pli.
 (John 25 cartes, Tony 27 cartes)
 
+Tour n°32
+John joue 6 de pique
+Tony joue Roi de carreau
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
+
+Tour n°33
+John joue Roi de pique
+Tony joue 8 de trefle
+John emporte ce pli.
+(John 25 cartes, Tony 27 cartes)
+
+Tour n°34
+John joue Valet de carreau
+Tony joue 9 de pique
+John emporte ce pli.
+(John 26 cartes, Tony 26 cartes)
+
+Tour n°35
+John joue 7 de coeur
+Tony joue 8 de coeur
+Tony emporte ce pli.
+(John 25 cartes, Tony 27 cartes)
+
+Tour n°36
+John joue 5 de carreau
+Tony joue Roi de coeur
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
+
+Tour n°37
+John joue 4 de pique
+Tony joue Valet de coeur
+Tony emporte ce pli.
+(John 23 cartes, Tony 29 cartes)
+
+Tour n°38
+John joue 2 de pique
+Tony joue Dame de carreau
+Tony emporte ce pli.
+(John 22 cartes, Tony 30 cartes)
+
+Tour n°39
+John joue As de pique
+Tony joue Valet de trefle
+John emporte ce pli.
+(John 23 cartes, Tony 29 cartes)
+
+Tour n°40
+John joue 6 de carreau
+Tony joue Valet de pique
+Tony emporte ce pli.
+(John 22 cartes, Tony 30 cartes)
+
+Tour n°41
+John joue As de carreau
+Tony joue As de coeur
+	Bataille !
+	John cache une carte Dame de coeur
+	Tony cache une carte 6 de trefle
+	John joue 6 de coeur
+	Tony joue 4 de carreau
+John emporte ce pli.
+(John 25 cartes, Tony 27 cartes)
+
+Tour n°42
+John joue 2 de coeur
+Tony joue 10 de pique
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
+
+Tour n°43
+John joue 9 de trefle
+Tony joue 5 de coeur
+John emporte ce pli.
+(John 25 cartes, Tony 27 cartes)
+
+Tour n°44
+John joue 7 de trefle
+Tony joue 9 de coeur
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
+
+Tour n°45
+John joue Roi de trefle
+Tony joue 2 de carreau
+John emporte ce pli.
+(John 25 cartes, Tony 27 cartes)
+
 Tour n°46
-John joue 4 de carreau
-Tony joue 10 de trefle
+John joue 8 de pique
+Tony joue 9 de carreau
 Tony emporte ce pli.
 (John 24 cartes, Tony 28 cartes)
 
 Tour n°47
-John joue As de carreau
-Tony joue 5 de coeur
+John joue 5 de pique
+Tony joue 4 de coeur
 John emporte ce pli.
 (John 25 cartes, Tony 27 cartes)
 
 Tour n°48
-John joue 3 de carreau
-Tony joue 8 de coeur
+John joue 3 de pique
+Tony joue 10 de carreau
 Tony emporte ce pli.
 (John 24 cartes, Tony 28 cartes)
 
 Tour n°49
-John joue Dame de pique
-Tony joue 2 de pique
+John joue 10 de coeur
+Tony joue 3 de carreau
 John emporte ce pli.
 (John 25 cartes, Tony 27 cartes)
 
 Tour n°50
-John joue Valet de trefle
-Tony joue Roi de pique
+John joue 3 de trefle
+Tony joue 4 de trefle
 Tony emporte ce pli.
 (John 24 cartes, Tony 28 cartes)
 
 Tour n°51
-John joue 9 de pique
-Tony joue 2 de coeur
+John joue Dame de pique
+Tony joue 3 de coeur
 John emporte ce pli.
 (John 25 cartes, Tony 27 cartes)
 
 Tour n°52
-John joue 5 de pique
-Tony joue As de pique
+John joue 5 de trefle
+Tony joue As de trefle
 Tony emporte ce pli.
 (John 24 cartes, Tony 28 cartes)
 
 Tour n°53
-John joue As de trefle
-Tony joue 4 de trefle
+John joue 10 de trefle
+Tony joue 2 de trefle
 John emporte ce pli.
 (John 25 cartes, Tony 27 cartes)
 
 Tour n°54
-John joue 10 de pique
-Tony joue Dame de coeur
+John joue 7 de pique
+Tony joue 7 de carreau
+	Bataille !
+	John cache une carte Roi de pique
+	Tony cache une carte 8 de carreau
+	John joue 8 de trefle
+	Tony joue Dame de trefle
 Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
+(John 22 cartes, Tony 30 cartes)
 
 Tour n°55
-John joue Roi de carreau
-Tony joue 9 de coeur
+John joue Valet de carreau
+Tony joue 6 de pique
 John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
+(John 23 cartes, Tony 29 cartes)
 
 Tour n°56
-John joue 10 de carreau
-Tony joue Valet de coeur
+John joue 9 de pique
+Tony joue Roi de carreau
 Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
+(John 22 cartes, Tony 30 cartes)
 
 Tour n°57
-John joue 2 de carreau
-Tony joue 5 de trefle
-Tony emporte ce pli.
+John joue As de pique
+Tony joue 7 de coeur
+John emporte ce pli.
 (John 23 cartes, Tony 29 cartes)
 
 Tour n°58
-John joue 2 de trefle
-Tony joue 8 de carreau
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
+John joue Valet de trefle
+Tony joue 8 de coeur
+John emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
 
 Tour n°59
-John joue Dame de trefle
-Tony joue 4 de pique
+John joue As de carreau
+Tony joue 5 de carreau
 John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°60
-John joue 6 de carreau
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
+John joue As de coeur
+Tony joue Roi de coeur
+John emporte ce pli.
+(John 26 cartes, Tony 26 cartes)
 
 Tour n°61
-John joue Valet de pique
-Tony joue 3 de coeur
+John joue Dame de coeur
+Tony joue 4 de pique
 John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+(John 27 cartes, Tony 25 cartes)
 
 Tour n°62
-John joue 6 de pique
-Tony joue 6 de trefle
-	Bataille !
-	John cache une carte Valet de carreau
-	Tony cache une carte 8 de trefle
-	John joue 3 de trefle
-	Tony joue Dame de carreau
+John joue 6 de trefle
+Tony joue Valet de coeur
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 26 cartes, Tony 26 cartes)
 
 Tour n°63
-John joue 9 de carreau
-Tony joue 7 de pique
+John joue 6 de coeur
+Tony joue 2 de pique
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 27 cartes, Tony 25 cartes)
 
 Tour n°64
-John joue 9 de trefle
-Tony joue Roi de trefle
+John joue 4 de carreau
+Tony joue Dame de carreau
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 26 cartes, Tony 26 cartes)
 
 Tour n°65
-John joue 5 de carreau
-Tony joue 7 de coeur
-Tony emporte ce pli.
-(John 19 cartes, Tony 33 cartes)
+John joue 9 de trefle
+Tony joue 6 de carreau
+John emporte ce pli.
+(John 27 cartes, Tony 25 cartes)
 
 Tour n°66
-John joue As de coeur
-Tony joue 8 de pique
-John emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+John joue 5 de coeur
+Tony joue Valet de pique
+Tony emporte ce pli.
+(John 26 cartes, Tony 26 cartes)
 
 Tour n°67
-John joue 10 de coeur
-Tony joue 3 de pique
+John joue Roi de trefle
+Tony joue 2 de coeur
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 27 cartes, Tony 25 cartes)
 
 Tour n°68
-John joue 6 de coeur
-Tony joue Roi de coeur
+John joue 2 de carreau
+Tony joue 10 de pique
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 26 cartes, Tony 26 cartes)
 
 Tour n°69
-John joue As de carreau
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
-
-Tour n°70
-John joue 5 de coeur
+John joue 5 de pique
 Tony joue 7 de trefle
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 25 cartes, Tony 27 cartes)
+
+Tour n°70
+John joue 4 de coeur
+Tony joue 9 de coeur
+Tony emporte ce pli.
+(John 24 cartes, Tony 28 cartes)
 
 Tour n°71
-John joue Dame de pique
-Tony joue 4 de carreau
+John joue 10 de coeur
+Tony joue 8 de pique
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°72
-John joue 2 de pique
-Tony joue 10 de trefle
+John joue 3 de carreau
+Tony joue 9 de carreau
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 24 cartes, Tony 28 cartes)
 
 Tour n°73
-John joue 9 de pique
-Tony joue 3 de carreau
+John joue Dame de pique
+Tony joue 3 de pique
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°74
-John joue 2 de coeur
-Tony joue 8 de coeur
+John joue 3 de coeur
+Tony joue 10 de carreau
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 24 cartes, Tony 28 cartes)
 
 Tour n°75
-John joue As de trefle
-Tony joue Valet de trefle
+John joue 10 de trefle
+Tony joue 3 de trefle
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°76
-John joue 4 de trefle
-Tony joue Roi de pique
+John joue 2 de trefle
+Tony joue 4 de trefle
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 24 cartes, Tony 28 cartes)
 
 Tour n°77
-John joue Roi de carreau
-Tony joue 5 de pique
+John joue Valet de carreau
+Tony joue 5 de trefle
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°78
-John joue 9 de coeur
-Tony joue As de pique
+John joue 6 de pique
+Tony joue As de trefle
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 24 cartes, Tony 28 cartes)
 
 Tour n°79
-John joue Dame de trefle
-Tony joue 10 de pique
+John joue As de pique
+Tony joue 7 de pique
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 25 cartes, Tony 27 cartes)
 
 Tour n°80
-John joue 4 de pique
-Tony joue Dame de coeur
+John joue 7 de coeur
+Tony joue 7 de carreau
+	Bataille !
+	John cache une carte Valet de trefle
+	Tony cache une carte Roi de pique
+	John joue 8 de coeur
+	Tony joue 8 de carreau
+		Bataille !
+		John cache une carte As de carreau
+		Tony cache une carte 8 de trefle
+		John joue 5 de carreau
+		Tony joue Dame de trefle
 Tony emporte ce pli.
 (John 20 cartes, Tony 32 cartes)
 
 Tour n°81
-John joue Valet de pique
-Tony joue 10 de carreau
+John joue As de coeur
+Tony joue 9 de pique
 John emporte ce pli.
 (John 21 cartes, Tony 31 cartes)
 
 Tour n°82
-John joue 3 de coeur
-Tony joue Valet de coeur
+John joue Roi de coeur
+Tony joue Roi de carreau
+	Bataille !
+	John cache une carte Dame de coeur
+	Tony cache une carte 6 de trefle
+	John joue 4 de pique
+	Tony joue Valet de coeur
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 18 cartes, Tony 34 cartes)
 
 Tour n°83
-John joue 9 de carreau
-Tony joue 2 de carreau
+John joue 6 de coeur
+Tony joue 4 de carreau
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 19 cartes, Tony 33 cartes)
 
 Tour n°84
-John joue 7 de pique
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
+John joue 2 de pique
+Tony joue Dame de carreau
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
 
 Tour n°85
-John joue As de coeur
-Tony joue 2 de trefle
+John joue 9 de trefle
+Tony joue 5 de coeur
 John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+(John 19 cartes, Tony 33 cartes)
 
 Tour n°86
-John joue 8 de pique
-Tony joue 8 de carreau
-	Bataille !
-	John cache une carte 10 de coeur
-	Tony cache une carte 6 de carreau
-	John joue 3 de pique
-	Tony joue 7 de carreau
+John joue 6 de carreau
+Tony joue Valet de pique
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 18 cartes, Tony 34 cartes)
 
 Tour n°87
-John joue As de carreau
-Tony joue 6 de pique
+John joue Roi de trefle
+Tony joue 2 de carreau
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 19 cartes, Tony 33 cartes)
 
 Tour n°88
-John joue 4 de coeur
-Tony joue 6 de trefle
+John joue 2 de coeur
+Tony joue 10 de pique
 Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+(John 18 cartes, Tony 34 cartes)
 
 Tour n°89
-John joue Dame de pique
-Tony joue Valet de carreau
+John joue 10 de coeur
+Tony joue 5 de pique
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 19 cartes, Tony 33 cartes)
 
 Tour n°90
-John joue 4 de carreau
-Tony joue 8 de trefle
-Tony emporte ce pli.
+John joue 8 de pique
+Tony joue 7 de trefle
+John emporte ce pli.
 (John 20 cartes, Tony 32 cartes)
 
 Tour n°91
-John joue 9 de pique
-Tony joue 3 de trefle
+John joue Dame de pique
+Tony joue 4 de coeur
 John emporte ce pli.
 (John 21 cartes, Tony 31 cartes)
 
 Tour n°92
-John joue 3 de carreau
-Tony joue Dame de carreau
+John joue 3 de pique
+Tony joue 9 de coeur
 Tony emporte ce pli.
 (John 20 cartes, Tony 32 cartes)
 
 Tour n°93
-John joue As de trefle
-Tony joue 9 de trefle
+John joue 10 de trefle
+Tony joue 3 de carreau
 John emporte ce pli.
 (John 21 cartes, Tony 31 cartes)
 
 Tour n°94
-John joue Valet de trefle
-Tony joue Roi de trefle
+John joue 3 de trefle
+Tony joue 9 de carreau
 Tony emporte ce pli.
 (John 20 cartes, Tony 32 cartes)
 
 Tour n°95
-John joue Roi de carreau
-Tony joue 5 de carreau
+John joue Valet de carreau
+Tony joue 3 de coeur
 John emporte ce pli.
 (John 21 cartes, Tony 31 cartes)
 
 Tour n°96
-John joue 5 de pique
-Tony joue 7 de coeur
+John joue 5 de trefle
+Tony joue 10 de carreau
 Tony emporte ce pli.
 (John 20 cartes, Tony 32 cartes)
 
 Tour n°97
-John joue Dame de trefle
-Tony joue 6 de coeur
+John joue As de pique
+Tony joue 2 de trefle
 John emporte ce pli.
 (John 21 cartes, Tony 31 cartes)
 
 Tour n°98
-John joue 10 de pique
-Tony joue Roi de coeur
-Tony emporte ce pli.
-(John 20 cartes, Tony 32 cartes)
+John joue 7 de pique
+Tony joue 4 de trefle
+John emporte ce pli.
+(John 22 cartes, Tony 30 cartes)
 
 Tour n°99
-John joue Valet de pique
-Tony joue 5 de coeur
+John joue As de coeur
+Tony joue 6 de pique
 John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
+(John 23 cartes, Tony 29 cartes)
 
 Tour n°100
-John joue 10 de carreau
-Tony joue 7 de trefle
-John emporte ce pli.
+John joue 9 de pique
+Tony joue As de trefle
+Tony emporte ce pli.
 (John 22 cartes, Tony 30 cartes)
 
 Tour n°101
-John joue 9 de carreau
-Tony joue 2 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°102
-John joue 2 de carreau
-Tony joue 10 de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°103
-John joue 7 de pique
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°104
-John joue 5 de trefle
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°105
-John joue As de coeur
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°106
-John joue 2 de trefle
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°107
-John joue As de carreau
-Tony joue 9 de coeur
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°108
-John joue 6 de pique
-Tony joue As de pique
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°109
-John joue Dame de pique
-Tony joue 4 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°110
-John joue Valet de carreau
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°111
-John joue 9 de pique
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°112
-John joue 3 de trefle
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°113
-John joue As de trefle
-Tony joue 8 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°114
-John joue 9 de trefle
-Tony joue 8 de carreau
-John emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°115
-John joue Roi de carreau
-Tony joue 10 de coeur
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°116
-John joue 5 de carreau
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°117
-John joue Dame de trefle
-Tony joue 3 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°118
 John joue 6 de coeur
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°119
-John joue Valet de pique
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°120
-John joue 5 de coeur
-Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°121
-John joue 10 de carreau
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°122
-John joue 7 de trefle
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°123
-John joue 9 de carreau
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°124
-John joue 2 de pique
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°125
-John joue 7 de pique
-Tony joue Valet de trefle
-Tony emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°126
-John joue 2 de coeur
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°127
-John joue As de coeur
-Tony joue 5 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°128
-John joue 4 de trefle
 Tony joue 7 de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°129
-John joue As de carreau
-Tony joue 10 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°130
-John joue 9 de coeur
-Tony joue Roi de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°131
-John joue Dame de pique
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°132
-John joue 4 de pique
-Tony joue 10 de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°133
-John joue 9 de pique
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°134
-John joue 3 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°135
-John joue As de trefle
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°136
-John joue 8 de pique
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°137
-John joue 9 de trefle
-Tony joue 6 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°138
-John joue 8 de carreau
-Tony joue As de pique
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°139
-John joue Roi de carreau
-Tony joue Valet de carreau
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°140
-John joue 10 de coeur
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°141
-John joue Dame de trefle
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°142
-John joue 3 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°143
-John joue Valet de pique
-Tony joue 5 de carreau
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°144
-John joue 4 de coeur
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°145
-John joue 10 de carreau
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°146
-John joue 4 de carreau
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°147
-John joue 9 de carreau
-Tony joue 5 de coeur
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°148
-John joue 3 de carreau
-Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°149
-John joue As de coeur
-Tony joue 7 de trefle
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°150
-John joue 5 de pique
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°151
-John joue As de carreau
-Tony joue 2 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°152
-John joue 10 de pique
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°153
-John joue Dame de pique
-Tony joue 7 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°154
-John joue 2 de carreau
-Tony joue Valet de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°155
-John joue 9 de pique
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°156
-John joue 5 de trefle
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°157
-John joue As de trefle
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°158
-John joue 2 de trefle
-Tony joue 7 de coeur
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°159
-John joue 9 de trefle
-Tony joue 9 de coeur
-	Bataille !
-	John cache une carte 6 de pique
-	Tony cache une carte Roi de coeur
-	John joue Roi de carreau
-	Tony joue 4 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°160
-John joue Valet de carreau
-Tony joue 10 de trefle
-John emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°161
-John joue Dame de trefle
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°162
-John joue 3 de trefle
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°163
-John joue Valet de pique
-Tony joue 8 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°164
-John joue 5 de carreau
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°165
-John joue 10 de carreau
-Tony joue 8 de carreau
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°166
-John joue 6 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°167
-John joue 9 de carreau
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°168
-John joue 5 de coeur
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°169
-John joue As de coeur
-Tony joue 3 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°170
-John joue 7 de trefle
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°171
-John joue As de carreau
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°172
-John joue 2 de pique
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°173
-John joue Dame de pique
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°174
-John joue 7 de pique
-Tony joue 7 de carreau
-	Bataille !
-	John cache une carte 9 de pique
-	Tony cache une carte 3 de carreau
-	John joue 2 de coeur
-	Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°175
-John joue As de trefle
-Tony joue 5 de pique
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
-
-Tour n°176
-John joue 4 de trefle
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
-
-Tour n°177
-John joue 9 de trefle
-Tony joue 10 de pique
 Tony emporte ce pli.
 (John 21 cartes, Tony 31 cartes)
 
-Tour n°178
-John joue 9 de coeur
-Tony joue Dame de carreau
+Tour n°102
+John joue 4 de carreau
+Tony joue 7 de carreau
 Tony emporte ce pli.
 (John 20 cartes, Tony 32 cartes)
 
-Tour n°179
-John joue 6 de pique
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 21 cartes, Tony 31 cartes)
-
-Tour n°180
-John joue Roi de coeur
+Tour n°103
+John joue 9 de trefle
 Tony joue Valet de trefle
-John emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
+Tony emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
 
-Tour n°181
-John joue Roi de carreau
+Tour n°104
+John joue 5 de coeur
+Tony joue Roi de pique
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°105
+John joue Roi de trefle
+Tony joue 8 de coeur
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°106
+John joue 2 de carreau
+Tony joue 8 de carreau
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°107
+John joue 10 de coeur
+Tony joue As de carreau
+Tony emporte ce pli.
+(John 17 cartes, Tony 35 cartes)
+
+Tour n°108
+John joue 5 de pique
+Tony joue 8 de trefle
+Tony emporte ce pli.
+(John 16 cartes, Tony 36 cartes)
+
+Tour n°109
+John joue 8 de pique
+Tony joue 5 de carreau
+John emporte ce pli.
+(John 17 cartes, Tony 35 cartes)
+
+Tour n°110
+John joue 7 de trefle
+Tony joue Dame de trefle
+Tony emporte ce pli.
+(John 16 cartes, Tony 36 cartes)
+
+Tour n°111
+John joue Dame de pique
+Tony joue Roi de coeur
+Tony emporte ce pli.
+(John 15 cartes, Tony 37 cartes)
+
+Tour n°112
+John joue 4 de coeur
+Tony joue Roi de carreau
+Tony emporte ce pli.
+(John 14 cartes, Tony 38 cartes)
+
+Tour n°113
+John joue 10 de trefle
+Tony joue Dame de coeur
+Tony emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°114
+John joue 3 de carreau
+Tony joue 6 de trefle
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°115
+John joue Valet de carreau
+Tony joue 4 de pique
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°116
+John joue 3 de coeur
+Tony joue Valet de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°117
+John joue As de pique
+Tony joue 2 de pique
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°118
+John joue 2 de trefle
+Tony joue Dame de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°119
+John joue 7 de pique
+Tony joue 6 de carreau
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°120
+John joue 4 de trefle
+Tony joue Valet de pique
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°121
+John joue As de coeur
+Tony joue 2 de coeur
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°122
+John joue 6 de pique
+Tony joue 10 de pique
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°123
+John joue Roi de trefle
+Tony joue 3 de pique
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°124
+John joue 8 de coeur
+Tony joue 9 de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°125
+John joue 8 de pique
+Tony joue 3 de trefle
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°126
+John joue 5 de carreau
+Tony joue 9 de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°127
+John joue Valet de carreau
 Tony joue 5 de trefle
 John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°128
+John joue 4 de pique
+Tony joue 10 de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°129
+John joue As de pique
+Tony joue 9 de pique
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°130
+John joue 2 de pique
+Tony joue As de trefle
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°131
+John joue 7 de pique
+Tony joue 6 de coeur
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°132
+John joue 6 de carreau
+Tony joue 7 de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°133
+John joue As de coeur
+Tony joue 4 de carreau
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°134
+John joue 2 de coeur
+Tony joue 7 de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°135
+John joue Roi de trefle
+Tony joue 9 de trefle
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°136
+John joue 3 de pique
+Tony joue Valet de trefle
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°137
+John joue 8 de pique
+Tony joue 5 de coeur
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°138
+John joue 3 de trefle
+Tony joue Roi de pique
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°139
+John joue Valet de carreau
+Tony joue 2 de carreau
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°140
+John joue 5 de trefle
+Tony joue 8 de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°141
+John joue As de pique
+Tony joue 10 de coeur
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°142
+John joue 9 de pique
+Tony joue As de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°143
+John joue 7 de pique
+Tony joue 5 de pique
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°144
+John joue 6 de coeur
+Tony joue 8 de trefle
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°145
+John joue As de coeur
+Tony joue 7 de trefle
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°146
+John joue 4 de carreau
+Tony joue Dame de trefle
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°147
+John joue Roi de trefle
+Tony joue Dame de pique
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°148
+John joue 9 de trefle
+Tony joue Roi de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°149
+John joue 8 de pique
+Tony joue 4 de coeur
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°150
+John joue 5 de coeur
+Tony joue Roi de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°151
+John joue Valet de carreau
+Tony joue 10 de trefle
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°152
+John joue 2 de carreau
+Tony joue Dame de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°153
+John joue As de pique
+Tony joue 3 de carreau
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°154
+John joue 10 de coeur
+Tony joue 6 de trefle
+John emporte ce pli.
+(John 14 cartes, Tony 38 cartes)
+
+Tour n°155
+John joue 7 de pique
+Tony joue 3 de coeur
+John emporte ce pli.
+(John 15 cartes, Tony 37 cartes)
+
+Tour n°156
+John joue 5 de pique
+Tony joue Valet de coeur
+Tony emporte ce pli.
+(John 14 cartes, Tony 38 cartes)
+
+Tour n°157
+John joue As de coeur
+Tony joue 2 de trefle
+John emporte ce pli.
+(John 15 cartes, Tony 37 cartes)
+
+Tour n°158
+John joue 7 de trefle
+Tony joue Dame de carreau
+Tony emporte ce pli.
+(John 14 cartes, Tony 38 cartes)
+
+Tour n°159
+John joue Roi de trefle
+Tony joue 4 de trefle
+John emporte ce pli.
+(John 15 cartes, Tony 37 cartes)
+
+Tour n°160
+John joue Dame de pique
+Tony joue Valet de pique
+John emporte ce pli.
+(John 16 cartes, Tony 36 cartes)
+
+Tour n°161
+John joue 8 de pique
+Tony joue 6 de pique
+John emporte ce pli.
+(John 17 cartes, Tony 35 cartes)
+
+Tour n°162
+John joue 4 de coeur
+Tony joue 10 de pique
+Tony emporte ce pli.
+(John 16 cartes, Tony 36 cartes)
+
+Tour n°163
+John joue Valet de carreau
+Tony joue 8 de coeur
+John emporte ce pli.
+(John 17 cartes, Tony 35 cartes)
+
+Tour n°164
+John joue 10 de trefle
+Tony joue 9 de coeur
+John emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°165
+John joue As de pique
+Tony joue 5 de carreau
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°166
+John joue 3 de carreau
+Tony joue 9 de carreau
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°167
+John joue 10 de coeur
+Tony joue 4 de pique
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°168
+John joue 6 de trefle
+Tony joue 10 de carreau
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°169
+John joue 7 de pique
+Tony joue 2 de pique
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°170
+John joue 3 de coeur
+Tony joue As de trefle
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°171
+John joue As de coeur
+Tony joue 6 de carreau
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°172
+John joue 2 de trefle
+Tony joue 7 de coeur
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°173
+John joue Roi de trefle
+Tony joue 2 de coeur
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°174
+John joue 4 de trefle
+Tony joue 7 de carreau
+Tony emporte ce pli.
+(John 18 cartes, Tony 34 cartes)
+
+Tour n°175
+John joue Dame de pique
+Tony joue 3 de pique
+John emporte ce pli.
+(John 19 cartes, Tony 33 cartes)
+
+Tour n°176
+John joue Valet de pique
+Tony joue Valet de trefle
+	Bataille !
+	John cache une carte 8 de pique
+	Tony cache une carte 3 de trefle
+	John joue 6 de pique
+	Tony joue Roi de pique
+Tony emporte ce pli.
+(John 16 cartes, Tony 36 cartes)
+
+Tour n°177
+John joue Valet de carreau
+Tony joue 5 de trefle
+John emporte ce pli.
+(John 17 cartes, Tony 35 cartes)
+
+Tour n°178
+John joue 8 de coeur
+Tony joue 8 de carreau
+	Bataille !
+	John cache une carte 10 de trefle
+	Tony cache une carte 9 de pique
+	John joue 9 de coeur
+	Tony joue As de carreau
+Tony emporte ce pli.
+(John 14 cartes, Tony 38 cartes)
+
+Tour n°179
+John joue As de pique
+Tony joue 6 de coeur
+John emporte ce pli.
+(John 15 cartes, Tony 37 cartes)
+
+Tour n°180
+John joue 5 de carreau
+Tony joue 8 de trefle
+Tony emporte ce pli.
+(John 14 cartes, Tony 38 cartes)
+
+Tour n°181
+John joue 10 de coeur
+Tony joue 4 de carreau
+John emporte ce pli.
+(John 15 cartes, Tony 37 cartes)
 
 Tour n°182
 John joue 4 de pique
-Tony joue Roi de trefle
+Tony joue Dame de trefle
 Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
+(John 14 cartes, Tony 38 cartes)
 
 Tour n°183
-John joue Valet de carreau
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+John joue 7 de pique
+Tony joue 9 de trefle
+Tony emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
 
 Tour n°184
-John joue 10 de trefle
-Tony joue 7 de coeur
-John emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
+John joue 2 de pique
+Tony joue Roi de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
 
 Tour n°185
-John joue Dame de trefle
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°186
-John joue 3 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°187
-John joue Valet de pique
-Tony joue 5 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°188
-John joue 8 de pique
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°189
-John joue 10 de carreau
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°190
-John joue 8 de carreau
-Tony joue As de pique
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°191
 John joue As de coeur
-Tony joue 9 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°192
-John joue 3 de pique
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°193
-John joue As de carreau
 Tony joue 5 de coeur
 John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
+(John 13 cartes, Tony 39 cartes)
 
-Tour n°194
-John joue 4 de coeur
+Tour n°186
+John joue 6 de carreau
+Tony joue Roi de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°187
+John joue Roi de trefle
+Tony joue 2 de carreau
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°188
+John joue 2 de coeur
 Tony joue Dame de coeur
 Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
+(John 12 cartes, Tony 40 cartes)
 
-Tour n°195
+Tour n°189
 John joue Dame de pique
+Tony joue 5 de pique
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°190
+John joue 3 de pique
+Tony joue Valet de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°191
+John joue Valet de carreau
 Tony joue 7 de trefle
 John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°192
+John joue 5 de trefle
+Tony joue Dame de carreau
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°193
+John joue As de pique
+Tony joue 4 de coeur
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
+
+Tour n°194
+John joue 6 de coeur
+Tony joue 10 de pique
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
+
+Tour n°195
+John joue 10 de coeur
+Tony joue 3 de carreau
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
 
 Tour n°196
 John joue 4 de carreau
-Tony joue Valet de coeur
+Tony joue 9 de carreau
 Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
+(John 12 cartes, Tony 40 cartes)
 
 Tour n°197
-John joue As de trefle
-Tony joue 2 de pique
+John joue As de coeur
+Tony joue 6 de trefle
 John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
+(John 13 cartes, Tony 39 cartes)
 
 Tour n°198
-John joue 5 de pique
-Tony joue 6 de carreau
+John joue 5 de coeur
+Tony joue 10 de carreau
 Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
+(John 12 cartes, Tony 40 cartes)
 
 Tour n°199
-John joue 6 de pique
-Tony joue 7 de pique
-Tony emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+John joue Roi de trefle
+Tony joue 3 de coeur
+John emporte ce pli.
+(John 13 cartes, Tony 39 cartes)
 
 Tour n°200
 John joue 2 de carreau
-Tony joue 7 de carreau
+Tony joue As de trefle
 Tony emporte ce pli.
-(John 22 cartes, Tony 30 cartes)
+(John 12 cartes, Tony 40 cartes)
 
 Tour n°201
-John joue Roi de coeur
-Tony joue 9 de pique
+John joue Dame de pique
+Tony joue 2 de trefle
 John emporte ce pli.
-(John 23 cartes, Tony 29 cartes)
+(John 13 cartes, Tony 39 cartes)
 
 Tour n°202
-John joue Valet de trefle
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
+John joue 5 de pique
+Tony joue 7 de coeur
+Tony emporte ce pli.
+(John 12 cartes, Tony 40 cartes)
 
 Tour n°203
-John joue Roi de carreau
-Tony joue 2 de coeur
+John joue Valet de carreau
+Tony joue 4 de trefle
 John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
+(John 13 cartes, Tony 39 cartes)
 
 Tour n°204
-John joue 5 de trefle
-Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°205
-John joue Valet de carreau
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°206
-John joue 2 de trefle
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°207
-John joue 10 de trefle
-Tony joue 9 de trefle
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°208
-John joue 7 de coeur
-Tony joue 10 de pique
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°209
-John joue Dame de trefle
-Tony joue 9 de coeur
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°210
-John joue 3 de trefle
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°211
-John joue Valet de pique
-Tony joue 4 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°212
-John joue 5 de carreau
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°213
-John joue 10 de carreau
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°214
-John joue 6 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°215
-John joue As de coeur
-Tony joue 8 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°216
-John joue 9 de carreau
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°217
-John joue As de carreau
-Tony joue 8 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°218
-John joue 5 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°219
-John joue Dame de pique
-Tony joue 3 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°220
 John joue 7 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°221
-John joue As de trefle
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°222
-John joue 2 de pique
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°223
-John joue Roi de coeur
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°224
-John joue 9 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°225
-John joue Valet de trefle
-Tony joue 5 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°226
-John joue 3 de carreau
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°227
-John joue Roi de carreau
-Tony joue 6 de pique
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°228
-John joue 2 de coeur
-Tony joue 7 de pique
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°229
-John joue Valet de carreau
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°230
-John joue 4 de trefle
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 24 cartes, Tony 28 cartes)
-
-Tour n°231
-John joue 10 de trefle
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 25 cartes, Tony 27 cartes)
-
-Tour n°232
-John joue 9 de trefle
-Tony joue 6 de trefle
-John emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°233
-John joue Dame de trefle
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°234
-John joue 9 de coeur
-Tony joue 8 de trefle
-John emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°235
-John joue Valet de pique
-Tony joue 7 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°236
-John joue 4 de pique
-Tony joue 10 de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°237
-John joue 10 de carreau
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°238
-John joue 3 de coeur
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°239
-John joue As de coeur
-Tony joue 5 de carreau
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°240
-John joue 8 de pique
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°241
-John joue As de carreau
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°242
-John joue 8 de carreau
-Tony joue 8 de coeur
-	Bataille !
-	John cache une carte Dame de pique
-	Tony cache une carte 9 de carreau
-	John joue 3 de pique
-	Tony joue Roi de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°243
-John joue As de trefle
-Tony joue 5 de coeur
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°244
-John joue 4 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°245
-John joue Roi de coeur
-Tony joue 7 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°246
-John joue 4 de carreau
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°247
-John joue Valet de trefle
-Tony joue 2 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°248
-John joue 5 de pique
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°249
-John joue Roi de carreau
-Tony joue 9 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°250
-John joue 6 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°251
-John joue Valet de carreau
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°252
-John joue 2 de carreau
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°253
-John joue 10 de trefle
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°254
-John joue 5 de trefle
-Tony joue 7 de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°255
-John joue 9 de trefle
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°256
-John joue 6 de trefle
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°257
-John joue Dame de trefle
-Tony joue 4 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°258
-John joue 2 de trefle
-Tony joue 10 de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°259
-John joue 9 de coeur
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°260
-John joue 8 de trefle
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°261
-John joue Valet de pique
-Tony joue 8 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°262
-John joue 7 de coeur
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°263
-John joue 10 de carreau
-Tony joue 8 de carreau
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°264
-John joue 3 de trefle
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°265
-John joue As de coeur
-Tony joue Dame de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°266
-John joue 5 de carreau
-Tony joue 9 de carreau
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°267
-John joue As de carreau
-Tony joue 3 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°268
-John joue 6 de coeur
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°269
-John joue As de trefle
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°270
-John joue 5 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°271
-John joue Roi de coeur
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°272
-John joue 7 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°273
-John joue Valet de trefle
-Tony joue 5 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°274
-John joue 2 de pique
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°275
-John joue Roi de carreau
-Tony joue 6 de pique
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°276
-John joue 9 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°277
-John joue Valet de carreau
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°278
-John joue 3 de carreau
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°279
-John joue 10 de trefle
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°280
-John joue 2 de coeur
-Tony joue 7 de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°281
-John joue 9 de trefle
-Tony joue 6 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°282
-John joue 4 de trefle
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°283
-John joue Dame de trefle
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°284
-John joue 4 de pique
-Tony joue 10 de pique
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°285
-John joue 9 de coeur
-Tony joue 8 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°286
-John joue 3 de coeur
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°287
-John joue Valet de pique
-Tony joue 7 de coeur
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°288
-John joue 8 de pique
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 26 cartes, Tony 26 cartes)
-
-Tour n°289
-John joue 10 de carreau
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 27 cartes, Tony 25 cartes)
-
-Tour n°290
-John joue 8 de carreau
-Tony joue 8 de coeur
-	Bataille !
-	John cache une carte As de coeur
-	Tony cache une carte 5 de carreau
-	John joue Dame de pique
-	Tony joue 9 de carreau
-John emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°291
-John joue As de carreau
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°292
-John joue 3 de pique
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°293
-John joue As de trefle
-Tony joue 5 de coeur
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°294
-John joue 4 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°295
-John joue Roi de coeur
-Tony joue 7 de trefle
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°296
-John joue 4 de carreau
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°297
-John joue Valet de trefle
-Tony joue 2 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°298
-John joue 5 de pique
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°299
-John joue Roi de carreau
-Tony joue 9 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°300
-John joue 6 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°301
-John joue Valet de carreau
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°302
-John joue 2 de carreau
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°303
-John joue 10 de trefle
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°304
-John joue 5 de trefle
-Tony joue 7 de pique
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°305
-John joue 9 de trefle
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°306
-John joue 6 de trefle
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°307
-John joue Dame de trefle
-Tony joue 4 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°308
-John joue 2 de trefle
-Tony joue 10 de pique
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°309
-John joue 9 de coeur
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°310
-John joue 8 de trefle
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°311
-John joue Valet de pique
-Tony joue 8 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°312
-John joue 7 de coeur
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°313
-John joue 10 de carreau
-Tony joue 3 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°314
-John joue 3 de trefle
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°315
-John joue 8 de carreau
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°316
-John joue 8 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°317
-John joue As de coeur
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°318
-John joue 5 de carreau
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°319
-John joue Dame de pique
-Tony joue 5 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°320
-John joue 9 de carreau
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°321
-John joue As de carreau
-Tony joue 6 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°322
-John joue 6 de coeur
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°323
-John joue As de trefle
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°324
-John joue 5 de coeur
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°325
-John joue Roi de coeur
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°326
-John joue 7 de trefle
-Tony joue 7 de pique
-	Bataille !
-	John cache une carte Valet de trefle
-	Tony cache une carte 6 de trefle
-	John joue 2 de pique
-	Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°327
-John joue Roi de carreau
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°328
-John joue 9 de pique
-Tony joue 10 de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°329
-John joue Valet de carreau
-Tony joue 8 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°330
-John joue 3 de carreau
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°331
-John joue 10 de trefle
-Tony joue 7 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°332
-John joue 2 de coeur
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°333
-John joue 9 de trefle
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°334
-John joue 4 de trefle
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°335
-John joue Dame de trefle
-Tony joue 8 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°336
-John joue 4 de pique
-Tony joue As de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°337
-John joue 9 de coeur
-Tony joue 5 de carreau
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°338
-John joue 3 de coeur
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°339
-John joue Valet de pique
-Tony joue 9 de carreau
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°340
-John joue 8 de pique
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°341
-John joue 10 de carreau
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°342
-John joue 3 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°343
-John joue 8 de carreau
-Tony joue 5 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°344
-John joue 4 de coeur
-Tony joue 6 de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°345
-John joue As de coeur
-Tony joue 7 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°346
-John joue 4 de carreau
-Tony joue 7 de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°347
-John joue Dame de pique
-Tony joue Valet de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°348
-John joue 5 de pique
-Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°349
-John joue As de carreau
-Tony joue 2 de pique
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°350
-John joue 6 de pique
-Tony joue 7 de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°351
-John joue As de trefle
-Tony joue 9 de pique
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°352
-John joue 2 de carreau
-Tony joue 10 de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°353
-John joue Roi de coeur
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°354
-John joue 5 de trefle
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°355
-John joue Roi de carreau
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°356
-John joue 2 de trefle
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°357
-John joue Valet de carreau
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°358
-John joue 8 de trefle
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°359
-John joue 10 de trefle
-Tony joue 4 de pique
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°360
-John joue 7 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°361
-John joue 9 de trefle
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°362
-John joue 3 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°363
-John joue Dame de trefle
-Tony joue 8 de pique
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°364
-John joue 8 de coeur
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°365
-John joue 9 de coeur
-Tony joue 3 de pique
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°366
-John joue 5 de carreau
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 28 cartes, Tony 24 cartes)
-
-Tour n°367
-John joue Valet de pique
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 29 cartes, Tony 23 cartes)
-
-Tour n°368
-John joue 9 de carreau
-Tony joue 6 de carreau
-John emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°369
-John joue 10 de carreau
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°370
-John joue 6 de coeur
-Tony joue 7 de pique
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°371
-John joue 8 de carreau
-Tony joue 5 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°372
-John joue 5 de coeur
-Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 30 cartes, Tony 22 cartes)
-
-Tour n°373
-John joue As de coeur
-Tony joue 6 de pique
-John emporte ce pli.
-(John 31 cartes, Tony 21 cartes)
-
-Tour n°374
-John joue 7 de trefle
-Tony joue 7 de carreau
-	Bataille !
-	John cache une carte Dame de pique
-	Tony cache une carte 2 de carreau
-	John joue Valet de trefle
-	Tony joue 10 de pique
-John emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°375
-John joue As de carreau
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°376
-John joue 2 de pique
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°377
-John joue As de trefle
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°378
-John joue 9 de pique
-Tony joue Roi de trefle
-Tony emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°379
-John joue Roi de coeur
-Tony joue 8 de trefle
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°380
-John joue 3 de carreau
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°381
-John joue Roi de carreau
-Tony joue 7 de coeur
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°382
-John joue 2 de coeur
-Tony joue As de pique
-Tony emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°383
-John joue Valet de carreau
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°384
-John joue 4 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°385
-John joue 10 de trefle
-Tony joue 8 de coeur
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°386
-John joue 4 de pique
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°387
-John joue 9 de trefle
-Tony joue 5 de carreau
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°388
-John joue 3 de coeur
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 34 cartes, Tony 18 cartes)
-
-Tour n°389
-John joue Dame de trefle
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 35 cartes, Tony 17 cartes)
-
-Tour n°390
-John joue 8 de pique
-Tony joue 7 de pique
-John emporte ce pli.
-(John 36 cartes, Tony 16 cartes)
-
-Tour n°391
-John joue 9 de coeur
-Tony joue 5 de coeur
-John emporte ce pli.
-(John 37 cartes, Tony 15 cartes)
-
-Tour n°392
-John joue 3 de pique
-Tony joue 6 de trefle
-Tony emporte ce pli.
-(John 36 cartes, Tony 16 cartes)
-
-Tour n°393
-John joue Valet de pique
-Tony joue 2 de pique
-John emporte ce pli.
-(John 37 cartes, Tony 15 cartes)
-
-Tour n°394
-John joue 4 de coeur
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 36 cartes, Tony 16 cartes)
-
-Tour n°395
-John joue 9 de carreau
-Tony joue 9 de pique
-	Bataille !
-	John cache une carte 6 de carreau
-	Tony cache une carte Roi de trefle
-	John joue 10 de carreau
-	Tony joue 3 de carreau
-John emporte ce pli.
-(John 39 cartes, Tony 13 cartes)
-
-Tour n°396
-John joue 4 de carreau
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 38 cartes, Tony 14 cartes)
-
-Tour n°397
-John joue 8 de carreau
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 39 cartes, Tony 13 cartes)
-
-Tour n°398
-John joue 5 de pique
-Tony joue As de pique
-Tony emporte ce pli.
-(John 38 cartes, Tony 14 cartes)
-
-Tour n°399
-John joue As de coeur
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 39 cartes, Tony 13 cartes)
-
-Tour n°400
-John joue 6 de pique
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 38 cartes, Tony 14 cartes)
-
-Tour n°401
-John joue 7 de trefle
-Tony joue 4 de pique
-John emporte ce pli.
-(John 39 cartes, Tony 13 cartes)
-
-Tour n°402
-John joue 7 de carreau
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 38 cartes, Tony 14 cartes)
-
-Tour n°403
-John joue Dame de pique
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 39 cartes, Tony 13 cartes)
-
-Tour n°404
-John joue 2 de carreau
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 38 cartes, Tony 14 cartes)
-
-Tour n°405
-John joue Valet de trefle
-Tony joue 3 de pique
-John emporte ce pli.
-(John 39 cartes, Tony 13 cartes)
-
-Tour n°406
-John joue 10 de pique
-Tony joue 6 de trefle
-John emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°407
-John joue As de carreau
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°408
-John joue 5 de trefle
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°409
-John joue As de trefle
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°410
-John joue 2 de trefle
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°411
-John joue Roi de coeur
-Tony joue 5 de pique
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°412
-John joue 8 de trefle
-Tony joue As de pique
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°413
-John joue Roi de carreau
-Tony joue 6 de pique
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°414
-John joue 7 de coeur
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°415
-John joue Valet de carreau
-Tony joue 7 de carreau
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°416
-John joue 3 de trefle
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°417
-John joue 10 de trefle
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°418
-John joue 8 de coeur
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°419
-John joue 9 de trefle
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°420
-John joue 5 de carreau
-Tony joue Dame de carreau
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°421
-John joue Dame de trefle
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 41 cartes, Tony 11 cartes)
-
-Tour n°422
-John joue 6 de coeur
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 40 cartes, Tony 12 cartes)
-
-Tour n°423
-John joue 8 de pique
-Tony joue 8 de trefle
-	Bataille !
-	John cache une carte 7 de pique
-	Tony cache une carte As de pique
-	John joue 9 de coeur
-	Tony joue 7 de coeur
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°424
-John joue 5 de coeur
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°425
-John joue Valet de pique
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°426
-John joue 2 de pique
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°427
-John joue 9 de carreau
-Tony joue 8 de coeur
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°428
-John joue 9 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°429
-John joue 6 de carreau
-Tony joue 5 de carreau
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°430
-John joue Roi de trefle
-Tony joue Dame de carreau
-John emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°431
-John joue 10 de carreau
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 45 cartes, Tony 7 cartes)
-
-Tour n°432
-John joue 3 de carreau
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°433
-John joue 8 de carreau
-Tony joue 5 de coeur
-John emporte ce pli.
-(John 45 cartes, Tony 7 cartes)
-
-Tour n°434
-John joue 2 de coeur
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°435
-John joue As de coeur
-Tony joue 2 de pique
-John emporte ce pli.
-(John 45 cartes, Tony 7 cartes)
-
-Tour n°436
-John joue 4 de trefle
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°437
-John joue 7 de trefle
-Tony joue 9 de pique
-Tony emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°438
-John joue 4 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°439
-John joue Dame de pique
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°440
-John joue 3 de coeur
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°441
-John joue Valet de trefle
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°442
-John joue 3 de pique
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°443
-John joue 10 de pique
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°444
-John joue 6 de trefle
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°445
-John joue As de carreau
-Tony joue 7 de trefle
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°446
-John joue 4 de coeur
-Tony joue 9 de pique
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°447
-John joue As de trefle
-Tony joue 4 de pique
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°448
-John joue 4 de carreau
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°449
-John joue Roi de coeur
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°450
-John joue 5 de pique
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°451
-John joue Roi de carreau
-Tony joue 3 de pique
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°452
-John joue 6 de pique
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°453
-John joue Valet de carreau
-Tony joue 6 de trefle
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°454
-John joue 7 de carreau
-Tony joue Dame de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°455
-John joue 10 de trefle
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°456
-John joue 2 de carreau
-Tony joue 9 de pique
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°457
-John joue 9 de trefle
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°458
-John joue 5 de trefle
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°459
-John joue Dame de trefle
-Tony joue 5 de pique
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°460
-John joue 2 de trefle
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°461
-John joue 8 de pique
-Tony joue 6 de pique
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°462
-John joue 8 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°463
-John joue 7 de pique
 Tony joue 7 de carreau
 	Bataille !
 	John cache une carte As de pique
-	Tony cache une carte Dame de coeur
-	John joue 9 de coeur
-	Tony joue 2 de carreau
-John emporte ce pli.
-(John 45 cartes, Tony 7 cartes)
-
-Tour n°464
-John joue 7 de coeur
-Tony joue 9 de pique
+	Tony cache une carte Valet de pique
+	John joue 4 de coeur
+	Tony joue Valet de trefle
 Tony emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
+(John 10 cartes, Tony 42 cartes)
 
-Tour n°465
-John joue Valet de pique
-Tony joue 5 de trefle
+Tour n°205
+John joue 10 de coeur
+Tony joue 8 de pique
 John emporte ce pli.
-(John 45 cartes, Tony 7 cartes)
+(John 11 cartes, Tony 41 cartes)
 
-Tour n°466
-John joue 3 de trefle
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°467
-John joue 9 de carreau
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 45 cartes, Tony 7 cartes)
-
-Tour n°468
-John joue 8 de coeur
-Tony joue Roi de pique
-Tony emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°469
-John joue 6 de carreau
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°470
-John joue 5 de carreau
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 42 cartes, Tony 10 cartes)
-
-Tour n°471
-John joue Roi de trefle
-Tony joue 7 de coeur
-John emporte ce pli.
-(John 43 cartes, Tony 9 cartes)
-
-Tour n°472
-John joue Dame de carreau
-Tony joue 9 de pique
-John emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°473
-John joue 10 de carreau
+Tour n°206
+John joue 3 de carreau
 Tony joue 3 de trefle
-John emporte ce pli.
-(John 45 cartes, Tony 7 cartes)
-
-Tour n°474
-John joue 6 de coeur
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 44 cartes, Tony 8 cartes)
-
-Tour n°475
-John joue 8 de carreau
-Tony joue 8 de coeur
 	Bataille !
-	John cache une carte 5 de coeur
-	Tony cache une carte Roi de pique
-	John joue As de coeur
-	Tony joue 6 de carreau
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°476
-John joue 2 de pique
-Tony joue 8 de trefle
+	John cache une carte As de coeur
+	Tony cache une carte 6 de pique
+	John joue 6 de trefle
+	Tony joue Roi de pique
 Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°477
+Tour n°207
+John joue Roi de trefle
+Tony joue 8 de coeur
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°208
+John joue 3 de coeur
+Tony joue 8 de carreau
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°209
 John joue Dame de pique
+Tony joue 10 de trefle
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°210
+John joue 2 de trefle
+Tony joue 9 de pique
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°211
+John joue Valet de carreau
+Tony joue 9 de coeur
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°212
+John joue 4 de trefle
+Tony joue As de carreau
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°213
+John joue 10 de coeur
 Tony joue 5 de carreau
 John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°478
-John joue 3 de carreau
-Tony joue 10 de coeur
+Tour n°214
+John joue 8 de pique
+Tony joue 8 de trefle
+	Bataille !
+	John cache une carte Roi de trefle
+	Tony cache une carte 4 de pique
+	John joue 8 de coeur
+	Tony joue Dame de trefle
 Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
+(John 6 cartes, Tony 46 cartes)
 
-Tour n°479
-John joue Valet de trefle
-Tony joue 6 de coeur
+Tour n°215
+John joue Dame de pique
+Tony joue 7 de pique
 John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
+(John 7 cartes, Tony 45 cartes)
 
-Tour n°480
-John joue 2 de coeur
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
+Tour n°216
+John joue 10 de trefle
+Tony joue 9 de trefle
+John emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°481
-John joue 10 de pique
+Tour n°217
+John joue Valet de carreau
 Tony joue 2 de pique
 John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°482
-John joue 4 de trefle
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°483
-John joue As de carreau
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°484
-John joue 7 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°485
-John joue As de trefle
-Tony joue 2 de coeur
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°486
-John joue 4 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°487
-John joue Roi de coeur
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°488
-John joue 3 de coeur
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°489
-John joue Roi de carreau
-Tony joue 7 de trefle
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°490
-John joue 3 de pique
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°491
-John joue Valet de carreau
-Tony joue 4 de pique
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°492
-John joue 6 de trefle
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°493
-John joue 10 de trefle
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°494
-John joue 4 de coeur
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°495
-John joue 9 de trefle
-Tony joue 3 de pique
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°496
-John joue 4 de carreau
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°497
-John joue Dame de trefle
-Tony joue 6 de trefle
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°498
-John joue 5 de pique
-Tony joue Valet de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°499
-John joue 8 de pique
-Tony joue 4 de coeur
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°500
-John joue 6 de pique
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°501
-John joue 7 de pique
-Tony joue 4 de carreau
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°502
-John joue 7 de carreau
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 46 cartes, Tony 6 cartes)
-
-Tour n°503
-John joue As de pique
-Tony joue 5 de pique
-John emporte ce pli.
-(John 47 cartes, Tony 5 cartes)
-
-Tour n°504
-John joue Dame de coeur
-Tony joue Valet de coeur
-John emporte ce pli.
-(John 48 cartes, Tony 4 cartes)
-
-Tour n°505
+Tour n°218
 John joue 9 de coeur
-Tony joue 6 de pique
-John emporte ce pli.
-(John 49 cartes, Tony 3 cartes)
-
-Tour n°506
-John joue 2 de carreau
-Tony joue 8 de trefle
+Tony joue Roi de coeur
 Tony emporte ce pli.
-(John 48 cartes, Tony 4 cartes)
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°507
-John joue Valet de pique
-Tony joue 7 de carreau
-John emporte ce pli.
-(John 49 cartes, Tony 3 cartes)
-
-Tour n°508
-John joue 5 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 48 cartes, Tony 4 cartes)
-
-Tour n°509
-John joue 9 de carreau
-Tony joue 2 de carreau
-John emporte ce pli.
-(John 49 cartes, Tony 3 cartes)
-
-Tour n°510
-John joue 2 de trefle
-Tony joue 8 de trefle
-Tony emporte ce pli.
-(John 48 cartes, Tony 4 cartes)
-
-Tour n°511
-John joue Roi de trefle
-Tony joue 5 de trefle
-John emporte ce pli.
-(John 49 cartes, Tony 3 cartes)
-
-Tour n°512
-John joue 7 de coeur
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 48 cartes, Tony 4 cartes)
-
-Tour n°513
-John joue Dame de carreau
-Tony joue 2 de trefle
-John emporte ce pli.
-(John 49 cartes, Tony 3 cartes)
-
-Tour n°514
-John joue 9 de pique
-Tony joue 8 de trefle
-John emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°515
-John joue 10 de carreau
-Tony joue 7 de coeur
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°516
-John joue 3 de trefle
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°517
-John joue 8 de carreau
-Tony joue 3 de trefle
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°518
-John joue 8 de coeur
-Tony joue 10 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°519
-John joue 5 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 49 cartes, Tony 3 cartes)
-
-Tour n°520
-John joue Roi de pique
-Tony joue 10 de coeur
-John emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°521
-John joue As de coeur
-Tony joue 5 de coeur
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°522
-John joue 6 de carreau
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°523
-John joue Dame de pique
+Tour n°219
+John joue 10 de coeur
 Tony joue 6 de carreau
 John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°524
+Tour n°220
 John joue 5 de carreau
-Tony joue 8 de coeur
+Tony joue Roi de carreau
 Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°525
-John joue Valet de trefle
-Tony joue 5 de carreau
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°526
-John joue 6 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°527
-John joue 10 de pique
-Tony joue 6 de coeur
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°528
-John joue 2 de pique
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°529
-John joue As de carreau
-Tony joue 2 de pique
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°530
-John joue 3 de carreau
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°531
-John joue As de trefle
-Tony joue 3 de carreau
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°532
-John joue 2 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°533
-John joue Roi de coeur
+Tour n°221
+John joue Dame de pique
 Tony joue 2 de coeur
 John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°534
-John joue 4 de trefle
-Tony joue 8 de coeur
+Tour n°222
+John joue 7 de pique
+Tony joue Dame de coeur
 Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°535
-John joue Roi de carreau
-Tony joue 4 de trefle
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°536
-John joue 7 de trefle
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°537
-John joue Valet de carreau
-Tony joue 7 de trefle
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°538
-John joue 4 de pique
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°539
+Tour n°223
 John joue 10 de trefle
-Tony joue 4 de pique
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°540
-John joue 3 de coeur
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°541
-John joue 9 de trefle
-Tony joue 3 de coeur
-John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
-
-Tour n°542
-John joue 3 de pique
-Tony joue 8 de coeur
-Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
-
-Tour n°543
-John joue Dame de trefle
 Tony joue 3 de pique
 John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°544
-John joue 6 de trefle
-Tony joue 8 de coeur
+Tour n°224
+John joue 9 de trefle
+Tony joue Valet de coeur
 Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°545
-John joue 8 de pique
-Tony joue 6 de trefle
+Tour n°225
+John joue Valet de carreau
+Tony joue 5 de trefle
 John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°546
-John joue 4 de coeur
-Tony joue 8 de coeur
+Tour n°226
+John joue 2 de pique
+Tony joue Dame de carreau
 Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°547
-John joue 7 de pique
-Tony joue 4 de coeur
+Tour n°227
+John joue 10 de coeur
+Tony joue 6 de coeur
 John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°548
-John joue 4 de carreau
-Tony joue 8 de coeur
+Tour n°228
+John joue 6 de carreau
+Tony joue 10 de pique
 Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
+(John 8 cartes, Tony 44 cartes)
 
-Tour n°549
-John joue As de pique
+Tour n°229
+John joue Dame de pique
 Tony joue 4 de carreau
 John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
+(John 9 cartes, Tony 43 cartes)
 
-Tour n°550
+Tour n°230
+John joue 2 de coeur
+Tony joue 9 de carreau
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°231
+John joue 10 de trefle
+Tony joue 5 de coeur
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°232
+John joue 3 de pique
+Tony joue 10 de carreau
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°233
+John joue Valet de carreau
+Tony joue 2 de carreau
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°234
+John joue 5 de trefle
+Tony joue As de trefle
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°235
+John joue 10 de coeur
+Tony joue 5 de pique
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°236
+John joue 6 de coeur
+Tony joue 7 de coeur
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°237
+John joue Dame de pique
+Tony joue 7 de trefle
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°238
+John joue 4 de carreau
+Tony joue 7 de carreau
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°239
+John joue 10 de trefle
+Tony joue As de pique
+Tony emporte ce pli.
+(John 7 cartes, Tony 45 cartes)
+
+Tour n°240
+John joue 5 de coeur
+Tony joue Valet de pique
+Tony emporte ce pli.
+(John 6 cartes, Tony 46 cartes)
+
+Tour n°241
+John joue Valet de carreau
+Tony joue 4 de coeur
+John emporte ce pli.
+(John 7 cartes, Tony 45 cartes)
+
+Tour n°242
+John joue 2 de carreau
+Tony joue Valet de trefle
+Tony emporte ce pli.
+(John 6 cartes, Tony 46 cartes)
+
+Tour n°243
+John joue 10 de coeur
+Tony joue 3 de carreau
+John emporte ce pli.
+(John 7 cartes, Tony 45 cartes)
+
+Tour n°244
+John joue 5 de pique
+Tony joue 3 de trefle
+John emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°245
+John joue Dame de pique
+Tony joue As de coeur
+Tony emporte ce pli.
+(John 7 cartes, Tony 45 cartes)
+
+Tour n°246
+John joue 7 de trefle
+Tony joue 6 de pique
+John emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°247
+John joue Valet de carreau
+Tony joue 6 de trefle
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°248
+John joue 4 de coeur
+Tony joue Roi de pique
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°249
+John joue 10 de coeur
+Tony joue 3 de coeur
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°250
+John joue 3 de carreau
+Tony joue 8 de carreau
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°251
+John joue 5 de pique
+Tony joue 2 de trefle
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°252
+John joue 3 de trefle
+Tony joue 9 de pique
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°253
+John joue 7 de trefle
+Tony joue 4 de trefle
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°254
+John joue 6 de pique
+Tony joue As de carreau
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°255
+John joue Valet de carreau
+Tony joue 8 de pique
+John emporte ce pli.
+(John 9 cartes, Tony 43 cartes)
+
+Tour n°256
+John joue 6 de trefle
+Tony joue 8 de trefle
+Tony emporte ce pli.
+(John 8 cartes, Tony 44 cartes)
+
+Tour n°257
+John joue 10 de coeur
+Tony joue Roi de trefle
+Tony emporte ce pli.
+(John 7 cartes, Tony 45 cartes)
+
+Tour n°258
+John joue 3 de coeur
+Tony joue 4 de pique
+Tony emporte ce pli.
+(John 6 cartes, Tony 46 cartes)
+
+Tour n°259
 John joue 5 de pique
 Tony joue 8 de coeur
 Tony emporte ce pli.
-(John 50 cartes, Tony 2 cartes)
+(John 5 cartes, Tony 47 cartes)
 
-Tour n°551
-John joue Dame de coeur
-Tony joue 5 de pique
+Tour n°260
+John joue 2 de trefle
+Tony joue Dame de trefle
+Tony emporte ce pli.
+(John 4 cartes, Tony 48 cartes)
+
+Tour n°261
+John joue 7 de trefle
+Tony joue 9 de coeur
+Tony emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°262
+John joue 4 de trefle
+Tony joue Roi de coeur
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°263
+John joue Valet de carreau
+Tony joue 5 de carreau
 John emporte ce pli.
-(John 51 cartes, Tony 1 cartes)
+(John 3 cartes, Tony 49 cartes)
 
-Tour n°552
-John joue Valet de coeur
-Tony joue 8 de coeur
+Tour n°264
+John joue 8 de pique
+Tony joue Roi de carreau
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°265
+John joue Valet de carreau
+Tony joue 7 de pique
 John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
 
-Holala ! Tony n'a plus de carte !
-John est le gagnant !
+Tour n°266
+John joue 5 de carreau
+Tony joue Dame de coeur
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
 
-Le plus beau tour a été le n°15 avec 2 batailles imbriquées.
+Tour n°267
+John joue Valet de carreau
+Tony joue 9 de trefle
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°268
+John joue 7 de pique
+Tony joue Valet de coeur
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°269
+John joue Valet de carreau
+Tony joue 2 de pique
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°270
+John joue 9 de trefle
+Tony joue Dame de carreau
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°271
+John joue Valet de carreau
+Tony joue 6 de carreau
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°272
+John joue 2 de pique
+Tony joue 10 de pique
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°273
+John joue Valet de carreau
+Tony joue 2 de coeur
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°274
+John joue 6 de carreau
+Tony joue 9 de carreau
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°275
+John joue Valet de carreau
+Tony joue 3 de pique
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°276
+John joue 2 de coeur
+Tony joue 10 de carreau
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°277
+John joue Valet de carreau
+Tony joue 5 de trefle
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°278
+John joue 3 de pique
+Tony joue As de trefle
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°279
+John joue Valet de carreau
+Tony joue 6 de coeur
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°280
+John joue 5 de trefle
+Tony joue 7 de coeur
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°281
+John joue Valet de carreau
+Tony joue 4 de carreau
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°282
+John joue 6 de coeur
+Tony joue 7 de carreau
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°283
+John joue Valet de carreau
+Tony joue 10 de trefle
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°284
+John joue 4 de carreau
+Tony joue As de pique
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°285
+John joue Valet de carreau
+Tony joue 5 de coeur
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°286
+John joue 10 de trefle
+Tony joue Valet de pique
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°287
+John joue Valet de carreau
+Tony joue 2 de carreau
+John emporte ce pli.
+(John 3 cartes, Tony 49 cartes)
+
+Tour n°288
+John joue 5 de coeur
+Tony joue Valet de trefle
+Tony emporte ce pli.
+(John 2 cartes, Tony 50 cartes)
+
+Tour n°289
+John joue Valet de carreau
+Tony joue Dame de pique
+Tony emporte ce pli.
+(John 1 cartes, Tony 51 cartes)
+
+Tour n°290
+John joue 2 de carreau
+Tony joue As de coeur
+Tony emporte ce pli.
+
+Holala ! John n'a plus de carte !
+Tony est le gagnant !
+
+Le plus beau tour a été le n°80 avec 2 batailles imbriquées.
