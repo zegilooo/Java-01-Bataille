@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 
 public class Bataille {
 	public static void main(String[] args) {
